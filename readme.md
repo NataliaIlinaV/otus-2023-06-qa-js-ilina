@@ -1,8 +1,13 @@
 # Hello GIT!
 
-## Otus git lesson July
+## Otus git lesson July 06 
 
 ### Feature list
-* Feature 1
-* Feature 2
-* Feature 3
+* Feature 1 (fax)
+* Feature 2 (xerox)
+* Feature 3 (number)
+
+#### Options list
+* 01
+* 02
+* 03 
