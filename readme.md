@@ -2,7 +2,7 @@
 
 ## Otus git lesson
 
-### Featire list
+### Feature list
 * Feature 1
 * Feature 2
 * Feature 3
