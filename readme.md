@@ -1,6 +1,6 @@
 # Hello GIT!
 
-## Otus git lesson
+## Otus git lesson July
 
 ### Feature list
 * Feature 1
